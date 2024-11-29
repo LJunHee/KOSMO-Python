@@ -1,2 +1,2 @@
-# KOSMO-Python
-Python, Django repo
+# KOSMO-Python&Django
+Python-Django repo
